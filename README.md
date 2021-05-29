@@ -20,6 +20,9 @@ The results and conclusions are shown at the end of each jupyter notebook.
 
 ## References
 [1] http://www.vision.caltech.edu/Image_Datasets/Caltech101/
+
 [2] https://www.tensorflow.org/tutorials/images/transfer_learning
+
 [3] https://scikit-learn.org/stable/modules/decomposition.html#pca
+
 [4] https://scikit-learn.org/stable/modules/clustering.html#k-means
