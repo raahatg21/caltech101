@@ -1,4 +1,4 @@
-# Clatech 101 Dataset 
+# Caltech 101 Dataset 
 Image classification and clustering on Caltech-101 dataset.
 
 ## Overview
